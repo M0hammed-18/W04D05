@@ -1,0 +1,50 @@
+.rigthside{
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+}
+hr{
+    width: 96%;
+    color: rgb(236, 236, 236);
+    border:none;
+    border-top:0.5px solid;
+
+
+}
+h3{
+    margin-left: 10px;
+    margin: auto 10px;
+}
+h4{
+    margin: auto 10px;
+}
+h5{
+    color: grey;
+    
+}
+p{
+    margin: auto 10px;
+}
+
+li{
+    display: inline;
+}
+li span{
+    background-color: rgb(29, 134, 29);
+    border-radius: 20%;
+    color: white;
+    font-family:Arial;
+    font-size: 20px;
+}
+.infoperson{
+display: flex;
+justify-content: start;
+flex-direction: row;
+margin: auto 10px;
+
+}
+#manimg{
+    width: 5%;
+  height: 30px;
+  margin-top: 10px;
+  
+}

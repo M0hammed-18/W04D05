@@ -1,0 +1,47 @@
+.leftside{
+    width: 30%;
+    margin: 0 10px auto 10px;
+    background-color: rgb(252, 250, 248);
+    text-align: center;
+}
+h3{
+    color: gray;
+}
+#personalimg{
+width: 50%;
+height: 200px;
+border-radius: 50%;
+}
+.infolocation{
+    display: flex;
+    justify-content: center;
+    margin: auto 20px;
+
+}
+.infoemail{
+    display: flex;
+    justify-content:center;
+    margin: auto 20px;
+}
+#locationimg{
+width: 10%;
+height: 30px;
+}
+#emailimg{
+    width: 10%;
+    height: 30px;  
+}
+#twitterimg{
+    width: 10%;
+    height: 30px; 
+}
+#githubimg{
+    width: 10%;
+    height: 30px; 
+}
+#lastp{
+    font-size: 15px;
+}
+
+
+
